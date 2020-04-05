@@ -1,5 +1,5 @@
 {
-    "name": "decahedron/monolog-sticky-context",
+    "name": "bwardlaw/monolog-sticky-context",
     "require": {
         "monolog/monolog": "^2.0"
     },
